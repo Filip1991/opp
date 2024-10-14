@@ -1,0 +1,5 @@
+﻿  source.cpp
+C:\Users\stud\source\repos\Project2\Project2\source.cpp(85,10): error C2512: 'Student': no appropriate default constructor available
+      C:\Users\stud\source\repos\Project2\Project2\source.cpp(5,7):
+      see declaration of 'Student'
+  
